@@ -1,9 +1,9 @@
-#Flask app with templates#
+# Flask app with templates. Vasilevich Dmitrii #
 
-##This is one of the first attempts to make a flask-build app with rendering to html templates##
+## This is one of the first attempts to make a flask-build app with rendering to html templates ##
 
 ***
-###The application gets the list of candidates from JSON file and returns different templates on 4 routes:###
+### The application gets the list of candidates from JSON file and returns different templates on 4 routes: ###
 ***
 
 * index page
